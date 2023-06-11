@@ -1,0 +1,9 @@
+pandas~=2.0.2
+SQLAlchemy~=2.0.15
+Scrapy~=2.9.0
+itemadapter~=0.8.0
+tldextract~=3.4.4
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
+transformers~=4.29.2
+postal~=1.1.10
